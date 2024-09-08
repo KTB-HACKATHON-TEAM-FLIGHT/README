@@ -7,7 +7,7 @@
 - **개발기간**: 2024년 9월 5일 ~ 9월 7일 
 - Members
 <div style="width: 100%; display: flex;">
-  <table style="border-collapse: collapse; margin-left: 0; text-align: center;">
+  <table style="border-collapse: collapse; margin-left: 0; text-align: center; vertical-align: middle;">
     <tr>
       <td>윤찬호</td>
       <td>임수민</td>
