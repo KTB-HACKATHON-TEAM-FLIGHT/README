@@ -5,56 +5,6 @@
 - 🔥**카카오테크 부트캠프 해커톤**🔥
 - **주제**: LLM을 활용한 AI 기반 서비스 개발 프로젝트
 - **개발기간**: 2024년 9월 5일 ~ 9월 7일 
-- Members
-<style>
-  table {
-    border-collapse: collapse;
-    margin-left: 0;
-    width: 100%;
-  }
-
-  td {
-    text-align: center;
-    vertical-align: middle;
-  }
-</style>
-
-<div>
-  <table>
-    <tr>
-      <td>윤찬호</td>
-      <td>임수민</td>
-      <td>신유승</td>
-      <td>양세민</td>
-      <td>김예지</td>
-      <td>이혜민</td>
-    </tr>
-    <tr>
-       <td><img width="70px" height="80px" src="./assets/shine.png" /></td>
-      <td><img width="90px" height="90px" src="./assets/sumin.png" /></td>
-      <td><img width="100px" height="100px" src="./assets/youth.png" /></td>
-      <td><img width="80px" height="80px" src="./assets/saemi.png" /></td>
-      <td><img width="60px" height="80px" src="./assets/yeaji.png" /></td>
-      <td><img width="90px" height="90px" src="./assets/headther.png" /></td>
-    </tr>
-    <tr>
-      <td>풀스택</td>
-      <td>풀스택</td>
-      <td>풀스택</td>
-      <td>인공지능</td>
-      <td>인공지능</td>
-      <td>클라우드</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yooooonshine">@yooooonshine</a></td>
-      <td><a href="https://github.com/extinctmule">@extinctmule</a></td>
-      <td><a href="https://github.com/Youthhing">@Youthhing</a></td>
-      <td><a href="https://github.com/sminy85">@sminy85</a></td>
-      <td><a href="https://github.com/jyhannakim">@jyhannakim</a></td>
-      <td><a href="https://github.com/2ming00">@2ming00</a></td>
-    </tr>
-  </table>
-</div>
 
 ## 🔗[ChatPPT  ](https://chatppt.site/)<img width="30px;" src="./assets/chatppt_logo.png"/>
 
@@ -194,3 +144,40 @@ flight-ai|
 
 ```
 
+### 👤Members
+<div style="width: 100%; display: flex;">
+  <table style="border-collapse: collapse; margin-left: 0; text-align: center;">
+    <tr>
+      <td>윤찬호</td>
+      <td>임수민</td>
+      <td>신유승</td>
+      <td>양세민</td>
+      <td>김예지</td>
+      <td>이혜민</td>
+    </tr>
+    <tr>
+       <td><img width="70px" height="80px" src="./assets/shine.png" /></td>
+      <td><img width="90px" height="90px" src="./assets/sumin.png" /></td>
+      <td><img width="100px" height="100px" src="./assets/youth.png" /></td>
+      <td><img width="80px" height="80px" src="./assets/saemi.png" /></td>
+      <td><img width="60px" height="80px" src="./assets/yeaji.png" /></td>
+      <td><img width="80px" height="80px" src="./assets/headther.png" /></td>
+    </tr>
+    <tr>
+      <td>풀스택</td>
+      <td>풀스택</td>
+      <td>풀스택</td>
+      <td>인공지능</td>
+      <td>인공지능</td>
+      <td>클라우드</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yooooonshine">@yooooonshine</a></td>
+      <td><a href="https://github.com/extinctmule">@extinctmule</a></td>
+      <td><a href="https://github.com/Youthhing">@Youthhing</a></td>
+      <td><a href="https://github.com/sminy85">@sminy85</a></td>
+      <td><a href="https://github.com/jyhannakim">@jyhannakim</a></td>
+      <td><a href="https://github.com/2ming00">@2ming00</a></td>
+    </tr>
+  </table>
+</div>
