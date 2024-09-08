@@ -145,39 +145,8 @@ flight-ai|
 ```
 
 ### 👤Members
-<div style="width: 100%; display: flex;">
-  <table style="border-collapse: collapse; margin-left: 0; text-align: center;">
-    <tr>
-      <td>윤찬호</td>
-      <td>임수민</td>
-      <td>신유승</td>
-      <td>양세민</td>
-      <td>김예지</td>
-      <td>이혜민</td>
-    </tr>
-    <tr>
-       <td><img width="70px" height="80px" src="./assets/shine.png" /></td>
-      <td><img width="90px" height="90px" src="./assets/sumin.png" /></td>
-      <td><img width="100px" height="100px" src="./assets/youth.png" /></td>
-      <td><img width="80px" height="80px" src="./assets/saemi.png" /></td>
-      <td><img width="60px" height="80px" src="./assets/yeaji.png" /></td>
-      <td><img width="80px" height="80px" src="./assets/headther.png" /></td>
-    </tr>
-    <tr>
-      <td>풀스택</td>
-      <td>풀스택</td>
-      <td>풀스택</td>
-      <td>인공지능</td>
-      <td>인공지능</td>
-      <td>클라우드</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yooooonshine">@yooooonshine</a></td>
-      <td><a href="https://github.com/extinctmule">@extinctmule</a></td>
-      <td><a href="https://github.com/Youthhing">@Youthhing</a></td>
-      <td><a href="https://github.com/sminy85">@sminy85</a></td>
-      <td><a href="https://github.com/jyhannakim">@jyhannakim</a></td>
-      <td><a href="https://github.com/2ming00">@2ming00</a></td>
-    </tr>
-  </table>
-</div>
+|      윤찬호       |          임수민         |     신유승         |      양세민       |      김예지       |      이혜민       |                                                                                                               
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |  
+|   <img width="80px" src="./assets/shine.png" />    |                      <img width="130px" src="./assets/sumin.png" />    |                   <img width="250px" src="./assets/youth.png"/>   |   <img width="180px" src="./assets/saemi.png" />    |   <img width="60px" src="./assets/yeaji.png" />    |   <img width="190px" src="./assets/headther.png" />    |
+|   `풀스택`   |    `풀스택`  | `풀스택`  | `인공지능`  |   `인공지능`   |   `클라우드`   |
+|   [@yooooonshine](https://github.com/yooooonshine)   |    [@extinctmule](https://github.com/extinctmule)  | [@Youthhing-03](https://github.com/Youthhing)  | [@sminy85](https://github.com/sminy85)  |   [@jyhannakim](https://github.com/jyhannakim)   |   [@2ming00](https://github.com/2ming00)
