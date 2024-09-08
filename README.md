@@ -5,8 +5,8 @@
 - 🔥**카카오테크 부트캠프 해커톤**🔥
 - **주제**: LLM을 활용한 AI 기반 서비스 개발 프로젝트
 - **개발기간**: 2024년 9월 5일 ~ 9월 7일 
-- Members
-<div style="width: 100%; display: flex;">
+- **Members**
+<div>
   <table style="border-collapse: collapse; margin-left: 0; text-align: center; vertical-align: middle;">
     <tr>
       <td>윤찬호</td>
